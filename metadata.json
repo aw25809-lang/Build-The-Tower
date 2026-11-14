@@ -1,0 +1,6 @@
+{
+  "name": "垂線堆疊 Plumb Stack",
+  "description": "2D 建築極簡風鐘擺堆疊遊戲 — 在精確時機點擊釋放磚塊，對齊切除並堆疊最高建築高塔。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
